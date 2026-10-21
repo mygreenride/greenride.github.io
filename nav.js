@@ -26,6 +26,10 @@ document.addEventListener("DOMContentLoaded", function () {
         </li>
 
         <li>
+          <a href="/flat-rate-rides/">Flat Rate Rides</a>
+        </li>
+
+        <li>
           <a href="/curbside-.html">Curbside Pickup</a>
         </li>
 
